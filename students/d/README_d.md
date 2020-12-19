@@ -1,7 +1,7 @@
 # D's Implementation of Gopherexercise 2
 
 ### Setup
-Running and testing D's handler.go - in this directory, run:
+In this directory, run:
 
 ```
 go run main/main.go
