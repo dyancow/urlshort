@@ -5,9 +5,9 @@
 ## D's Implementation
 For a detailed readme, see
 
-'''
+```
 ./students/d/README_d.md
-'''
+```
 
 ## Exercise details
 
