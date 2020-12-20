@@ -2,7 +2,12 @@
 
 [![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/urlshort)
 
+## D's Implementation
+For a detailed readme, see
 
+'''
+./students/d/README_d.md
+'''
 
 ## Exercise details
 
